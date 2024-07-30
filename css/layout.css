@@ -15,7 +15,7 @@ header{
   text-align: center;
 }
 .nav-item a:hover{
-  color: var(--lihgt)
+  color: var(--light);
 }
 @media (max-width: 768px) {
   .brand{
