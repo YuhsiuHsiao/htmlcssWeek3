@@ -69,7 +69,7 @@ footer a{
   margin-right: 32px;
 }
 .social li:last-child{
-  mr0
+  margin-right: 0;
 }
 .social img{
   width: 48px;
